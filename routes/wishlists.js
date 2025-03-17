@@ -9,7 +9,7 @@ wishlistRouter.post('/wishlists', addGift)
 
 wishlistRouter.get('/wishlists', getWishlists)
 
-wishlistRouter.update('/wishlists', updateWishlist)
+wishlistRouter.patch('/wishlists', updateWishlist)
 
 wishlistRouter.delete('/wishlists', deleteWishlist)
 
