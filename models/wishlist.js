@@ -1,4 +1,4 @@
-import { string } from "joi";
+import joi from "joi";
 import { Schema, model } from "mongoose";
 
 const wishlistSchema = new Schema({
