@@ -1,6 +1,6 @@
 // Creating a model for gifts wishlist
 
-import { WishlistModel } from "../models/wishlist.js";
+import { WishlistModel } from "../models/wishlist_model.js";
 
 
 

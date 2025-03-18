@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { registerUser } from "../controllers/wishlist_controllers.js";
+import { registerUser } from "../controllers/users_controller.js";
 
 
 // creating mote routesn

@@ -1,5 +1,5 @@
-import { User } from "../models/users.js";
-import { userValidator } from "../validators/users.js";
+import { User } from "../models/users_model.js";
+import { userValidator } from "../validators/users_validator.js";
 import bcrypt from "bcrypt"
 
 export const registerUser = async (req, res) => {

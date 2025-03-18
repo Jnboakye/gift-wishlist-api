@@ -1,5 +1,5 @@
 import express from 'express';
-import wishlistRouter from './routes/wishlists.js';
+import wishlistRouter from './routes/wishlists_route.js';
 import mongoose from 'mongoose';
 
 // Creating a databse connection
